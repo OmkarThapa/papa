@@ -158,16 +158,16 @@ section {
 	transition: all 0.2s ease-in-out;
 }
 .navbar-default .navbar-brand {
-	background-image: url(../img/2.PNG);
+	background-image: url(../img/2.png);
 }
 .navbar-shrink .navbar-brand {
-	background-image: url(../img/2.PNG);
+	background-image: url(../img/2.png);
 }
 .navbar-transparent .navbar-brand {
-	background-image: url(../img/2.PNG);
+	background-image: url(../img/2.png);
 }
 .navbar-inverse .navbar-brand {
-	background-image: url(../img/2.PNG);
+	background-image: url(../img/2.png);
 }
 
 /* Navbar links */
